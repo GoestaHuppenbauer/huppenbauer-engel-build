@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "31ad1ddf0117b4d6d213f85dcd5e66f1",
+    "revision": "a1862c784f1c77eaf195f837d5c63595",
     "url": "/index.html"
   },
   {
-    "revision": "88089305a0190cf16820",
+    "revision": "281529ef8cddde9b9b2f",
     "url": "/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "0132d09c13f241118e9e",
+    "revision": "8383c04a88353cfe60bf",
     "url": "/static/css/main.c06e13d7.chunk.css"
   },
   {
-    "revision": "88089305a0190cf16820",
-    "url": "/static/js/2.d2a669e6.chunk.js"
+    "revision": "281529ef8cddde9b9b2f",
+    "url": "/static/js/2.ff933e1c.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/static/js/2.d2a669e6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ff933e1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0132d09c13f241118e9e",
-    "url": "/static/js/main.991cc57b.chunk.js"
+    "revision": "8383c04a88353cfe60bf",
+    "url": "/static/js/main.c641533e.chunk.js"
   },
   {
     "revision": "8a418ce51d069a0521f7",
@@ -29,11 +29,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "bcdea644fbf6de43f137b397619ad4ad",
-    "url": "/static/media/HolzwarthInnen.bcdea644.jpg"
+    "url": "/static/media/Holzwarth Innen 2.bcdea644.jpg"
   },
   {
     "revision": "905c50f7e0df466951f8ae3975ba1dab",
     "url": "/static/media/Pura-Vida.905c50f7.JPG"
+  },
+  {
+    "revision": "b0346a6e2f6745a30f22d0110cc0e181",
+    "url": "/static/media/Pura-vida1.b0346a6e.JPG"
   },
   {
     "revision": "4c0d8bea7f2057cbffb908d1638c1970",
